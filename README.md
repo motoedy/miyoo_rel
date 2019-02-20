@@ -4,7 +4,7 @@
   
 ## Patch (20190220):
   1. gpsp_20190220.zip  
-    + Add border image (border.png)  
+    + Add border image (border.png, border_sp.png)  
   2. miyoo_spi_hwmod_1bit_ghostkey_20190220.bin  
     + Alleviate ghost key issue for SDCard 1Bit handheld (change scanline from x to y)  
   3. miyoo_spi_hwmod_4bit_ghostkey_20190220.bin  
