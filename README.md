@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190223):
+  1. cdogs_20190223.zip  
+    + Porting from GCW0 source  
+  
 ## Patch (20190222):
   1. ccdoom_20190222.zip  
     + Support fullscreen render (parameter used in GMenu2X: "-iwad $1")  
