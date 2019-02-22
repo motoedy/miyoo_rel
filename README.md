@@ -4,7 +4,9 @@
   
 ## Patch (20190222):
   1. ccdoom_20190222.zip  
-    + Support fullscreen render  
+    + Support fullscreen render (parameter used in GMenu2X: "-iwad $1")  
+  2. wolf3d_20190222.zip  
+    + Porting from RS97 source  
   
 ## Patch (20190221):
   1. miyoo_spi_hwmod_1bit_l1r1l2r2_20190221.bin:  
@@ -22,7 +24,7 @@
   
 ## Patch (20190219):
   1. gngeo_20190219.zip  
-    + Porting gngeo emulator from RS97 source  
+    + Porting from RS97 source  
   2. gmenu2x_20190219.zip  
     + Include more themes and pictures  
   3. ohboy_20190219.zip  
