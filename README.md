@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190222):
+  1. ccdoom_20190222.zip  
+    + Support fullscreen render  
+  
 ## Patch (20190221):
   1. miyoo_spi_hwmod_1bit_l1r1l2r2_20190221.bin:  
     + Support L1, R1, L2 and R2 keys (press at the same time: Start + B/A/TB/TA)  
