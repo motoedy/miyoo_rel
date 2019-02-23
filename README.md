@@ -2,6 +2,12 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190224):
+  1. miyoo_spi_hwmod_1bit_ghostkey_20190224.bin  
+    + Ignore START when press LEFT + DOWN + B  
+  2. miyoo_spi_hwmod_4bit_ghostkey_20190224.bin  
+    + Ignore START when press LEFT + DOWN + B  
+  
 ## Patch (20190223):
   1. cdogs_20190223.zip  
     + Porting from GCW0 source  
