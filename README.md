@@ -5,6 +5,8 @@
 ## Patch (20190223):
   1. cdogs_20190223.zip  
     + Porting from GCW0 source  
+  2. gmenu2x_20190223.zip  
+    + Repack more icons in Default folder  
   
 ## Patch (20190222):
   1. ccdoom_20190222.zip  
