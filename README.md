@@ -7,6 +7,12 @@
     + Ignore START when press LEFT + DOWN + B  
   2. miyoo_spi_hwmod_4bit_ghostkey_20190224.bin  
     + Ignore START when press LEFT + DOWN + B  
+  3. pcsx_rearmed_20190224.zip  
+    + Support vibration feature  
+  4. miyoo_spi_hwmod_1bit_vibration_20190224.bin  
+    + Support vibration feature  
+  5. miyoo_spi_hwmod_4bit_vibration_20190224.bin  
+    + Support vibration feature  
   
 ## Patch (20190223):
   1. cdogs_20190223.zip  
