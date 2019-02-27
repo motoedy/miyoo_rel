@@ -101,8 +101,12 @@
   2. miyoo_stock_v2.bin is for v2 miyoo/bittboy handheld  
   
 ## Hotkey:
-  1. Volume: Select + A/B  
-  2. Backlight: Select + TA/TB  
+  1. L1: Start + B  
+  2. R1: Start + A  
+  3. L2: Start + TB  
+  4. R2: Start + TA  
+  5. Volume: Select + A/B  
+  6. Backlight: Select + TA/TB  
  
 ## Poweroff:
   + Please run poweroff icon in GMenu2X and then switch off power button when black screen 
