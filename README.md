@@ -1,7 +1,13 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
-
+  
+## Patch (20190227):
+  1. miyoo_spi_hwmod_1bit_earphone_20190227.bin  
+    + Fix earphone issue  
+  2. miyoo_spi_hwmod_4bit_earphone_20190227.bin  
+    + Fix earphone issue  
+  
 ## Patch (20190226):
   1. fceux_20190226.zip  
     + Improve user experience for both LoadState and SaveState  
