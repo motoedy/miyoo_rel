@@ -7,11 +7,13 @@
     + Fix hang issue in SORR game  
   2. asciiportal_20190303.zip  
     + Porting from RS97 source  
-  3. kernel_20190303.zip  
+  3. digger_20190303.zip  
+    + Porting from RS97 source  
+  4. kernel_20190303.zip  
     + Fix invalid GPIO setting (support hardware fix for ghost key problem)  
-  4. miyoo_spi_hwmod_1bit_ghostkey_20190303.bin  
+  5. miyoo_spi_hwmod_1bit_ghostkey_20190303.bin  
     + Only work on hardware fix for ghost key problem  
-  5. miyoo_spi_hwmod_4bit_ghostkey_20190303.bin  
+  6. miyoo_spi_hwmod_4bit_ghostkey_20190303.bin  
     + Only work on hardware fix for ghost key problem  
   
 ## Patch (20190227):
