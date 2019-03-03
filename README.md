@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190303):
+  1. sorr_20190303.zip  
+    + Fix hang issue in SORR game  
+  
 ## Patch (20190227):
   1. miyoo_spi_hwmod_1bit_earphone_20190227.bin  
     + Fix earphone issue  
