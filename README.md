@@ -5,6 +5,8 @@
 ## Patch (20190303):
   1. sorr_20190303.zip  
     + Fix hang issue in SORR game  
+  2. asciiportal_20190303.zip  
+    + Porting from RS97 source  
   
 ## Patch (20190227):
   1. miyoo_spi_hwmod_1bit_earphone_20190227.bin  
