@@ -9,7 +9,7 @@
     + Porting from RS97 source  
   3. digger_20190303.zip  
     + Porting from RS97 source  
-  4. mr.drillux_20190303.zip  
+  4. mrdrillux_20190303.zip  
     + Porting from RS97 source  
   5. kernel_20190303.zip  
     + Fix invalid GPIO setting (support hardware fix for ghost key problem)  
