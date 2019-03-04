@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190304):
+  1. openbor_20190304.zip  
+    + Fix wrong color mapping  
+  
 ## Patch (20190303):
   1. sorr_20190303.zip  
     + Fix hang issue in SORR game  
