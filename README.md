@@ -2,6 +2,12 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190311):
+  1. gambatte_sdl_20190311.zip  
+    + Porting from RS97 source  
+    + B: Quick Save  
+    + TB: Quick Load  
+  
 ## Patch (20190304):
   1. openbor_20190304.zip  
     + Fix wrong color mapping  
