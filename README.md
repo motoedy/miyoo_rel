@@ -1,6 +1,17 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
+
+## Patch (20190312):
+  1. gmu_20190312.zip  
+    + A: add music into play list  
+    + START: change tab page  
+    + SELECT -> START: quit  
+    + R menu: turn screen off  
+    + R (START + A): turn screen on  
+  2. gambatte_sdl_20190312.zip  
+    + Remove hotkey for both Quick Save/Load  
+    + Remap A and B button  
   
 ## Patch (20190311):
   1. gambatte_sdl_20190311.zip  
