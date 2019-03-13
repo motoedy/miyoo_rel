@@ -1,7 +1,11 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
-
+  
+## Patch (20190313):
+  1. wizwrite_20190313.zip  
+    + Porting from WIZ source  
+  
 ## Patch (20190312):
   1. gmu_20190312.zip  
     + A: add music into play list  
