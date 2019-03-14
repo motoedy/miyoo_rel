@@ -2,9 +2,15 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190314):
+  1. mame4all_20190314.zip  
+    + Porting from RS97 source  
+  
 ## Patch (20190313):
   1. wizwrite_20190313.zip  
     + Porting from WIZ source  
+  2. tombstone_20190313.zip
+    + Porting from Dingux source
   
 ## Patch (20190312):
   1. gmu_20190312.zip  
