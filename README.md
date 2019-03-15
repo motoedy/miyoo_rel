@@ -4,6 +4,7 @@
   
 ## Patch (20190315):
   1. mame4all_20190315.zip  
+    + Updated cheat.dat  
     + Fix rom list issue (issue: cursor disappaear when too mamy roms put in folder)  
   
 ## Patch (20190314):
