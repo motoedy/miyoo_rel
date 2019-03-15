@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190315):
+  1. mame4all_20190315.zip  
+    + Fix rom list issue (issue: cursor disappaear when too mamy roms put in folder)  
+  
 ## Patch (20190314):
   1. mame4all_20190314.zip  
     + Porting from RS97 source  
