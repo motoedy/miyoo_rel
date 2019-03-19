@@ -7,6 +7,8 @@
    -  Porting from RS97 source (R Menu: exit)  
 -  gngeo_20190319.zip  
    -  Remap buttons (A:TA, B:A, C:B, D:TB)  
+-  mame4all_20190319.zip  
+   -  Fix upside down issue for Dodonpachi (Japan) game  
  
 ## Patch (20190315):
 -  mame4all_20190315.zip  
