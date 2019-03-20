@@ -7,7 +7,10 @@
    -  Porting from GCW0 source  
 -  bard_20190320.zip  
    -  Porting from GCW0 source  
- 
+-  gmenu2x_20190320.zip  
+   -  Fix wrong backlight setting when wake up  
+   -  Change 'Power timeout' setting from 1~300 to 0~300  
+  
 ## Patch (20190319):
 -  jinyong v1_20190319  
    -  Porting from RS97 source (R Menu: exit)  
