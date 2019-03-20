@@ -2,6 +2,12 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190320):
+-  liero_20190320.zip  
+   -  Porting from GCW0 source  
+-  bard_20190320.zip  
+   -  Porting from GCW0 source  
+ 
 ## Patch (20190319):
 -  jinyong v1_20190319  
    -  Porting from RS97 source (R Menu: exit)  
