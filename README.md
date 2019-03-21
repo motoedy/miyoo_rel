@@ -1,7 +1,17 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
-  
+
+## Patch (20190321):
+-  hhexen_20190321.zip  
+   - Porting from RS97 source  
+-  hheretic_20190321.zip  
+   - Porting from RS97 source  
+-  rott_20190321.zip  
+   - Porting from RS97 source  
+-  kof_20190321.zip  
+   - Porting from RS97 source  
+
 ## Patch (20190320):
 -  liero_20190320.zip  
    -  Porting from GCW0 source  
