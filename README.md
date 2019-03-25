@@ -1,16 +1,25 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
-
+  
+## Patch (20190326):
+-  wqx_20190326.zip:  
+   -  Porting from Android source  
+ 
+## Patch (20190322):
+-  gpsp_20190322.zip  
+   -  Remap buttons (Miyoo_B:GBA_L, Miyoo_TB:GBA_R)  
+   -  Support L and R buttons (hardware mod)  
+  
 ## Patch (20190321):
 -  hhexen_20190321.zip  
-   - Porting from RS97 source  
+   -  Porting from RS97 source  
 -  hheretic_20190321.zip  
-   - Porting from RS97 source  
+   -  Porting from RS97 source  
 -  rott_20190321.zip  
-   - Porting from RS97 source  
+   -  Porting from RS97 source  
 -  kof_20190321.zip  
-   - Porting from RS97 source  
+   -  Porting from RS97 source  
 
 ## Patch (20190320):
 -  liero_20190320.zip  
