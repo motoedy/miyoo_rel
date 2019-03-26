@@ -5,6 +5,8 @@
 ## Patch (20190326):
 -  wqx_20190326.zip:  
    -  Porting from Android source  
+-  gmu_20190326.zip:  
+   -  Fix backlight issue (issue: failed to turn off backlight LED when sleep)  
  
 ## Patch (20190322):
 -  gpsp_20190322.zip  
