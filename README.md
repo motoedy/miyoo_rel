@@ -1,7 +1,11 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
-
+  
+## Patch (20190409):
+-  gpsp_20190409.zip  
+   -  Support rumble feature  
+ 
 ## Patch (20190327):
 -  gmenu2x_20190327.zip  
    -  Fix suspend issue (issue: GMenu2X is always in work mode when PoweroffTimeout value is equal to zero)  
