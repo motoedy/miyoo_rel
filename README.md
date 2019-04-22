@@ -1,6 +1,9 @@
 # Linux OS for Miyoo/Bittboy handheld
 ![Alt text](miyoo.bmp)  
-(Designed by win2next)
+(Designed by win2next)  
+  
+## Final update (20190422):
+  Since I have released all of source codes on my github, I will not update this repository anymore, thanks :)  
   
 ## Patch (20190409):
 -  gpsp_20190409.zip  
